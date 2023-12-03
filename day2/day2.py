@@ -9,7 +9,7 @@ part_2 = 0
 active_line = 1
 
 colors_stock = {
-    "r": 12,
+    "r": 1,
     "g": 13,
     "b": 14
 }
